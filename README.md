@@ -1,6 +1,9 @@
 i dont know how to do c# so im just combining some random fixes i found from three different forks
+
 transparent bg https://github.com/ShaggyPanchal/percentage/tree/master/percentage/percentage
+
 add percent symbol https://github.com/nicka101/percentage/tree/master/percentage/percentage
+
 no blurry text https://github.com/solo5star/percentage/tree/master/percentage/percentage
 
 # percentage
